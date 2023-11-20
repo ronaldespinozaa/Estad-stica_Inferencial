@@ -1,6 +1,6 @@
 # Estadística Inferencial y Pruebas Estadísticas
 
-Este repositorio proporciona información y ejemplos relacionados con estadística inferencial y algunas de sus principales pruebas estadísticas.
+Este repositorio proporciona información y ejemplos relacionados con estadística inferencial y TestAB, junto algunas de sus principales pruebas estadísticas.
 
 ## Contenido
 
