@@ -1,5 +1,3 @@
-# Estad-stica_Inferencial
-
 # Estadística Inferencial y Pruebas Estadísticas
 
 Este repositorio proporciona información y ejemplos relacionados con estadística inferencial y algunas de sus principales pruebas estadísticas.
